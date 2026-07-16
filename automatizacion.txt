@@ -1,0 +1,5 @@
+Evento: cuando se registra una nueva causa en el sistema.
+
+Mensaje: "Nueva causa creada en la plataforma, revisa y apoya."
+
+No se debe enviar: números de cédula, direcciones, teléfonos, ni información personal sensible.

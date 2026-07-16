@@ -1,0 +1,15 @@
+Entidad: Causa
+- id: identificador único
+- titulo: nombre de la causa
+- descripcion: explicación de la causa
+- fecha: fecha de creación
+
+Sirve para guardar la información de cada causa creada.
+
+Entidad: Apoyo
+- id: identificador único
+- causa_id: relación con la causa
+- nombre: nombre de quien apoya
+- fecha: fecha del apoyo
+
+Sirve para registrar las personas que apoyan una causa.
